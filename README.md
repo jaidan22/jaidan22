@@ -13,15 +13,9 @@
 
 ## I work on 
 
-![HTML5](https://img.shields.io/badge/HTML5-chocolate?style=flat-square&logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&style=flat-square)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff&style=flat-square)
-![Gatsby](https://img.shields.io/badge/Gatsby-purple?style=flat-square&logo=gatsby&logoColor=white&style=flat-square)
-![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff&style=flat-square)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=flat-square&logo=mongodb&logoColor=white&style=flat-square)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,sass,next,gatsby,vscode&perline=5)](https://skillicons.dev)
 
 <!--
 <div style={display:flex,align-items:center,justify-content:center,gap:64px}>
