@@ -15,7 +15,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,sass,next,gatsby,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,sass,next,git,gatsby,tailwind,vscode&perline=5)](https://skillicons.dev)
 
 <!--
 <div style={display:flex,align-items:center,justify-content:center,gap:64px}>
