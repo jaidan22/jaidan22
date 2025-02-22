@@ -2,9 +2,9 @@
 
 ## I'm Jaidan Sleeba
 
-- 👨‍💻 I’m doing B.Tech from College of Engineering, Trivandrum
-- 🔭 I’m a Full Stack Web developer
-- 🌱 I’m currently learning Web3.0
+- 👨‍💻 A Software Engineer
+- 🔭 Full Stack Web dev
+- 🌱 .NET, Angular
 
 ## Connect with me on
 
